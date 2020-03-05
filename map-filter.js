@@ -19,8 +19,8 @@ const output = [];
 //          return element * element;
 //         });
 
-// const result = numbers.map(x => x *x);
-// console.log(result);                
+const result = numbers.map(x => x *x);
+console.log(result);                
 
 
 //array.filter practice: return all element that passes 

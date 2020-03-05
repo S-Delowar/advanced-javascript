@@ -1,6 +1,6 @@
 // 0 chara all numbers truthy. empty string falsey. sting er vitore kisu thakle truthy. undefined hole false. 
 
-//falsy
+//falsy:
 //0
 //""
 //undefined
@@ -8,7 +8,7 @@
 //NaN
 //false
 
-//Truthy
+//Truthy:
 //'0'
 //' '
 //[]

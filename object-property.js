@@ -23,9 +23,9 @@ const students = [
 // console.log(names);
 
 
-// const names = students.map(stdnt => stdnt.name);
-// const id = students.map(stdnt => stdnt.id);
-// console.log(names, id);
+const names = students.map(stdnt => stdnt.name);
+const id = students.map(stdnt => stdnt.id);
+console.log(names, id);
 
 const biggerThirty = students.filter(stdnt => stdnt.id >30);
 console.log(biggerThirty);
